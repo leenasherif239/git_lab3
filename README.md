@@ -28,4 +28,4 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
   
-![alt text](http://url/to/perils-of-rebasing-2.png)
+![alt text](perils-of-rebasing-2.png)
